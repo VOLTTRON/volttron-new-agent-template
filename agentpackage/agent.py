@@ -19,7 +19,6 @@ utils.setup_logging()
 _log = logging.getLogger(__name__)
 
 
-
 DEFAULT_MESSAGE = "VolttronListerAgent Message"
 
 
